@@ -1,0 +1,20 @@
+C:\Users\Bruno Manzoli\Desktop\ControleDeEstoque\ControleDeEstoque\bin\Debug\ControleDeEstoque.exe.config
+C:\Users\Bruno Manzoli\Desktop\ControleDeEstoque\ControleDeEstoque\bin\Debug\ControleDeEstoque.exe
+C:\Users\Bruno Manzoli\Desktop\ControleDeEstoque\ControleDeEstoque\bin\Debug\ControleDeEstoque.pdb
+C:\Users\Bruno Manzoli\Desktop\ControleDeEstoque\ControleDeEstoque\obj\Debug\ControleDeEstoque.frmPrincipal.resources
+C:\Users\Bruno Manzoli\Desktop\ControleDeEstoque\ControleDeEstoque\obj\Debug\ControleDeEstoque.Properties.Resources.resources
+C:\Users\Bruno Manzoli\Desktop\ControleDeEstoque\ControleDeEstoque\obj\Debug\ControleDeEstoque.csproj.GenerateResource.cache
+C:\Users\Bruno Manzoli\Desktop\ControleDeEstoque\ControleDeEstoque\obj\Debug\ControleDeEstoque.csproj.CoreCompileInputs.cache
+C:\Users\Bruno Manzoli\Desktop\ControleDeEstoque\ControleDeEstoque\obj\Debug\ControleDeEstoque.exe
+C:\Users\Bruno Manzoli\Desktop\ControleDeEstoque\ControleDeEstoque\obj\Debug\ControleDeEstoque.pdb
+C:\Users\Bruno Manzoli\Desktop\ControleDeEstoque\ControleDeEstoque\obj\Debug\ControleDeEstoque.csprojAssemblyReference.cache
+C:\Users\Bruno Manzoli\Desktop\ControleDeEstoque - Com os Alunos\ControleDeEstoque\bin\Debug\ControleDeEstoque.exe.config
+C:\Users\Bruno Manzoli\Desktop\ControleDeEstoque - Com os Alunos\ControleDeEstoque\bin\Debug\ControleDeEstoque.exe
+C:\Users\Bruno Manzoli\Desktop\ControleDeEstoque - Com os Alunos\ControleDeEstoque\bin\Debug\ControleDeEstoque.pdb
+C:\Users\Bruno Manzoli\Desktop\ControleDeEstoque - Com os Alunos\ControleDeEstoque\obj\Debug\ControleDeEstoque.frmPrincipal.resources
+C:\Users\Bruno Manzoli\Desktop\ControleDeEstoque - Com os Alunos\ControleDeEstoque\obj\Debug\ControleDeEstoque.Properties.Resources.resources
+C:\Users\Bruno Manzoli\Desktop\ControleDeEstoque - Com os Alunos\ControleDeEstoque\obj\Debug\ControleDeEstoque.csproj.GenerateResource.cache
+C:\Users\Bruno Manzoli\Desktop\ControleDeEstoque - Com os Alunos\ControleDeEstoque\obj\Debug\ControleDeEstoque.csproj.CoreCompileInputs.cache
+C:\Users\Bruno Manzoli\Desktop\ControleDeEstoque - Com os Alunos\ControleDeEstoque\obj\Debug\ControleDeEstoque.exe
+C:\Users\Bruno Manzoli\Desktop\ControleDeEstoque - Com os Alunos\ControleDeEstoque\obj\Debug\ControleDeEstoque.pdb
+C:\Users\Bruno Manzoli\Desktop\ControleDeEstoque - Com os Alunos\ControleDeEstoque\obj\Debug\ControleDeEstoque.csprojAssemblyReference.cache

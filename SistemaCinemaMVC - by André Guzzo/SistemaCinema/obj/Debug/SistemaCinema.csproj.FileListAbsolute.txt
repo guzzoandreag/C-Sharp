@@ -1,0 +1,104 @@
+C:\Users\bruno\Desktop\SistemaCinema\SistemaCinema\bin\Debug\SistemaCinema.exe.config
+D:\BackUp\SENAI\Material Didático\Técnico em Informática\Programação de Aplicativos\Provas\Prova Prática 02 - Paralela\Para o Aluno\SistemaCinema\SistemaCinema\bin\Debug\SistemaCinema.exe.config
+C:\Users\Bruno Manzoli\Desktop\Para o Aluno\SistemaCinema\SistemaCinema\bin\Debug\SistemaCinema.exe.config
+C:\Users\Bruno Manzoli\Desktop\Para o Aluno\SistemaCinema\SistemaCinema\bin\Debug\SistemaCinema.exe
+C:\Users\Bruno Manzoli\Desktop\Para o Aluno\SistemaCinema\SistemaCinema\bin\Debug\SistemaCinema.pdb
+C:\Users\Bruno Manzoli\Desktop\Para o Aluno\SistemaCinema\SistemaCinema\bin\Debug\mscorlib.dll
+C:\Users\Bruno Manzoli\Desktop\Para o Aluno\SistemaCinema\SistemaCinema\bin\Debug\System.Net.Http.dll
+C:\Users\Bruno Manzoli\Desktop\Para o Aluno\SistemaCinema\SistemaCinema\bin\Debug\System.Net.Http.xml
+C:\Users\Bruno Manzoli\Desktop\Para o Aluno\SistemaCinema\SistemaCinema\bin\Debug\pt-BR\mscorlib.resources.dll
+C:\Users\Bruno Manzoli\Desktop\Para o Aluno\SistemaCinema\SistemaCinema\bin\Debug\normidna.nlp
+C:\Users\Bruno Manzoli\Desktop\Para o Aluno\SistemaCinema\SistemaCinema\bin\Debug\normnfc.nlp
+C:\Users\Bruno Manzoli\Desktop\Para o Aluno\SistemaCinema\SistemaCinema\bin\Debug\normnfd.nlp
+C:\Users\Bruno Manzoli\Desktop\Para o Aluno\SistemaCinema\SistemaCinema\bin\Debug\normnfkc.nlp
+C:\Users\Bruno Manzoli\Desktop\Para o Aluno\SistemaCinema\SistemaCinema\bin\Debug\normnfkd.nlp
+C:\Users\Bruno Manzoli\Desktop\Para o Aluno\SistemaCinema\SistemaCinema\obj\Debug\SistemaCinema.frmPrincipal.resources
+C:\Users\Bruno Manzoli\Desktop\Para o Aluno\SistemaCinema\SistemaCinema\obj\Debug\SistemaCinema.Properties.Resources.resources
+C:\Users\Bruno Manzoli\Desktop\Para o Aluno\SistemaCinema\SistemaCinema\obj\Debug\SistemaCinema.csproj.GenerateResource.Cache
+C:\Users\Bruno Manzoli\Desktop\Para o Aluno\SistemaCinema\SistemaCinema\obj\Debug\SistemaCinema.exe
+C:\Users\Bruno Manzoli\Desktop\Para o Aluno\SistemaCinema\SistemaCinema\obj\Debug\SistemaCinema.pdb
+C:\Users\Bruno Manzoli\Desktop\Para o Aluno\SistemaCinema\SistemaCinema\obj\Debug\SistemaCinema.csprojResolveAssemblyReference.cache
+C:\Users\Bruno Manzoli\Desktop\Partilha\Para o Aluno\SistemaCinema\SistemaCinema\bin\Debug\SistemaCinema.exe.config
+C:\Users\Bruno Manzoli\Desktop\Partilha\Para o Aluno\SistemaCinema\SistemaCinema\obj\Debug\SistemaCinema.exe
+C:\Users\Bruno Manzoli\Desktop\Partilha\Para o Aluno\SistemaCinema\SistemaCinema\obj\Debug\SistemaCinema.pdb
+\\SONY\Partilha\Para o Aluno\SistemaCinema\SistemaCinema\bin\Debug\SistemaCinema.exe.config
+\\SONY\Partilha\Para o Aluno\SistemaCinema\SistemaCinema\obj\Debug\SistemaCinema.exe
+\\SONY\Partilha\Para o Aluno\SistemaCinema\SistemaCinema\obj\Debug\SistemaCinema.pdb
+D:\SistemaCinema\SistemaCinema\bin\Debug\SistemaCinema.exe.config
+D:\SistemaCinema\SistemaCinema\obj\Debug\SistemaCinema.exe
+D:\SistemaCinema\SistemaCinema\obj\Debug\SistemaCinema.pdb
+D:\SistemaCinema\SistemaCinema\bin\Debug\SistemaCinema.exe
+D:\SistemaCinema\SistemaCinema\bin\Debug\SistemaCinema.pdb
+D:\SistemaCinema\SistemaCinema\bin\Debug\mscorlib.dll
+D:\SistemaCinema\SistemaCinema\bin\Debug\System.Net.Http.dll
+D:\SistemaCinema\SistemaCinema\bin\Debug\System.Net.Http.xml
+D:\SistemaCinema\SistemaCinema\bin\Debug\pt-BR\mscorlib.resources.dll
+D:\SistemaCinema\SistemaCinema\bin\Debug\normidna.nlp
+D:\SistemaCinema\SistemaCinema\bin\Debug\normnfc.nlp
+D:\SistemaCinema\SistemaCinema\bin\Debug\normnfd.nlp
+D:\SistemaCinema\SistemaCinema\bin\Debug\normnfkc.nlp
+D:\SistemaCinema\SistemaCinema\bin\Debug\normnfkd.nlp
+D:\SistemaCinema\SistemaCinema\obj\Debug\SistemaCinema.csprojResolveAssemblyReference.cache
+D:\SistemaCinema\SistemaCinema\obj\Debug\SistemaCinema.frmPrincipal.resources
+D:\SistemaCinema\SistemaCinema\obj\Debug\SistemaCinema.Properties.Resources.resources
+D:\SistemaCinema\SistemaCinema\obj\Debug\SistemaCinema.csproj.GenerateResource.Cache
+C:\Users\Bruno Manzoli\Desktop\SistemaCinema\SistemaCinema\bin\Debug\SistemaCinema.exe.config
+C:\Users\Bruno Manzoli\Desktop\SistemaCinema\SistemaCinema\obj\Debug\SistemaCinema.exe
+C:\Users\Bruno Manzoli\Desktop\SistemaCinema\SistemaCinema\obj\Debug\SistemaCinema.pdb
+D:\BackUp\SENAI\Material Didático\Técnico em Informática\Programação de Aplicativos\Provas\Prova Prática 02 - Paralela\Para o Instrutor\SistemaCinema\SistemaCinema\bin\Debug\SistemaCinema.exe.config
+D:\BackUp\SENAI\Material Didático\Técnico em Informática\Programação de Aplicativos\Provas\Prova Prática 02 - Paralela\Para o Instrutor\SistemaCinema\SistemaCinema\obj\Debug\SistemaCinema.exe
+D:\BackUp\SENAI\Material Didático\Técnico em Informática\Programação de Aplicativos\Provas\Prova Prática 02 - Paralela\Para o Instrutor\SistemaCinema\SistemaCinema\obj\Debug\SistemaCinema.pdb
+D:\BackUp\SENAI\Material Didático\Técnico em Informática\Programação de Aplicativos\Provas\Prova Prática 02 - Paralela\Para o Instrutor\SistemaCinema\SistemaCinema\bin\Debug\SistemaCinema.exe
+D:\BackUp\SENAI\Material Didático\Técnico em Informática\Programação de Aplicativos\Provas\Prova Prática 02 - Paralela\Para o Instrutor\SistemaCinema\SistemaCinema\bin\Debug\SistemaCinema.pdb
+D:\BackUp\SENAI\Material Didático\Técnico em Informática\Programação de Aplicativos\Provas\Prova Prática 02 - Paralela\Para o Instrutor\SistemaCinema\SistemaCinema\bin\Debug\mscorlib.dll
+D:\BackUp\SENAI\Material Didático\Técnico em Informática\Programação de Aplicativos\Provas\Prova Prática 02 - Paralela\Para o Instrutor\SistemaCinema\SistemaCinema\bin\Debug\System.Net.Http.dll
+D:\BackUp\SENAI\Material Didático\Técnico em Informática\Programação de Aplicativos\Provas\Prova Prática 02 - Paralela\Para o Instrutor\SistemaCinema\SistemaCinema\bin\Debug\System.Net.Http.xml
+D:\BackUp\SENAI\Material Didático\Técnico em Informática\Programação de Aplicativos\Provas\Prova Prática 02 - Paralela\Para o Instrutor\SistemaCinema\SistemaCinema\bin\Debug\pt-BR\mscorlib.resources.dll
+D:\BackUp\SENAI\Material Didático\Técnico em Informática\Programação de Aplicativos\Provas\Prova Prática 02 - Paralela\Para o Instrutor\SistemaCinema\SistemaCinema\bin\Debug\normidna.nlp
+D:\BackUp\SENAI\Material Didático\Técnico em Informática\Programação de Aplicativos\Provas\Prova Prática 02 - Paralela\Para o Instrutor\SistemaCinema\SistemaCinema\bin\Debug\normnfc.nlp
+D:\BackUp\SENAI\Material Didático\Técnico em Informática\Programação de Aplicativos\Provas\Prova Prática 02 - Paralela\Para o Instrutor\SistemaCinema\SistemaCinema\bin\Debug\normnfd.nlp
+D:\BackUp\SENAI\Material Didático\Técnico em Informática\Programação de Aplicativos\Provas\Prova Prática 02 - Paralela\Para o Instrutor\SistemaCinema\SistemaCinema\bin\Debug\normnfkc.nlp
+D:\BackUp\SENAI\Material Didático\Técnico em Informática\Programação de Aplicativos\Provas\Prova Prática 02 - Paralela\Para o Instrutor\SistemaCinema\SistemaCinema\bin\Debug\normnfkd.nlp
+D:\BackUp\SENAI\Material Didático\Técnico em Informática\Programação de Aplicativos\Provas\Prova Prática 02 - Paralela\Para o Instrutor\SistemaCinema\SistemaCinema\obj\Debug\SistemaCinema.csprojResolveAssemblyReference.cache
+D:\BackUp\SENAI\Material Didático\Técnico em Informática\Programação de Aplicativos\Provas\Prova Prática 02 - Paralela\Para o Instrutor\SistemaCinema\SistemaCinema\obj\Debug\SistemaCinema.frmPrincipal.resources
+D:\BackUp\SENAI\Material Didático\Técnico em Informática\Programação de Aplicativos\Provas\Prova Prática 02 - Paralela\Para o Instrutor\SistemaCinema\SistemaCinema\obj\Debug\SistemaCinema.Properties.Resources.resources
+D:\BackUp\SENAI\Material Didático\Técnico em Informática\Programação de Aplicativos\Provas\Prova Prática 02 - Paralela\Para o Instrutor\SistemaCinema\SistemaCinema\obj\Debug\SistemaCinema.csproj.GenerateResource.Cache
+D:\BackUp\SENAI\Material Didático\Técnico em Desenv. de Sist\Programação de Aplicativos\Exercícios\2. Com Banco de Dados\Atividade 05 - Cine Palácio\Para o Instrutor\SistemaCinema\SistemaCinema\bin\Debug\SistemaCinema.exe.config
+D:\BackUp\SENAI\Material Didático\Técnico em Desenv. de Sist\Programação de Aplicativos\Exercícios\2. Com Banco de Dados\Atividade 05 - Cine Palácio\Para o Instrutor\SistemaCinema\SistemaCinema\bin\Debug\SistemaCinema.exe
+D:\BackUp\SENAI\Material Didático\Técnico em Desenv. de Sist\Programação de Aplicativos\Exercícios\2. Com Banco de Dados\Atividade 05 - Cine Palácio\Para o Instrutor\SistemaCinema\SistemaCinema\bin\Debug\SistemaCinema.pdb
+D:\BackUp\SENAI\Material Didático\Técnico em Desenv. de Sist\Programação de Aplicativos\Exercícios\2. Com Banco de Dados\Atividade 05 - Cine Palácio\Para o Instrutor\SistemaCinema\SistemaCinema\obj\Debug\SistemaCinema.csprojAssemblyReference.cache
+D:\BackUp\SENAI\Material Didático\Técnico em Desenv. de Sist\Programação de Aplicativos\Exercícios\2. Com Banco de Dados\Atividade 05 - Cine Palácio\Para o Instrutor\SistemaCinema\SistemaCinema\obj\Debug\SistemaCinema.frmPrincipal.resources
+D:\BackUp\SENAI\Material Didático\Técnico em Desenv. de Sist\Programação de Aplicativos\Exercícios\2. Com Banco de Dados\Atividade 05 - Cine Palácio\Para o Instrutor\SistemaCinema\SistemaCinema\obj\Debug\SistemaCinema.Properties.Resources.resources
+D:\BackUp\SENAI\Material Didático\Técnico em Desenv. de Sist\Programação de Aplicativos\Exercícios\2. Com Banco de Dados\Atividade 05 - Cine Palácio\Para o Instrutor\SistemaCinema\SistemaCinema\obj\Debug\SistemaCinema.csproj.GenerateResource.cache
+D:\BackUp\SENAI\Material Didático\Técnico em Desenv. de Sist\Programação de Aplicativos\Exercícios\2. Com Banco de Dados\Atividade 05 - Cine Palácio\Para o Instrutor\SistemaCinema\SistemaCinema\obj\Debug\SistemaCinema.csproj.CoreCompileInputs.cache
+D:\BackUp\SENAI\Material Didático\Técnico em Desenv. de Sist\Programação de Aplicativos\Exercícios\2. Com Banco de Dados\Atividade 05 - Cine Palácio\Para o Instrutor\SistemaCinema\SistemaCinema\obj\Debug\SistemaCinema.exe
+D:\BackUp\SENAI\Material Didático\Técnico em Desenv. de Sist\Programação de Aplicativos\Exercícios\2. Com Banco de Dados\Atividade 05 - Cine Palácio\Para o Instrutor\SistemaCinema\SistemaCinema\obj\Debug\SistemaCinema.pdb
+C:\Users\Bruno Manzoli\Desktop\Atividade 05 - Cine Palácio\Para o Instrutor\SistemaCinema\SistemaCinema\bin\Debug\SistemaCinema.exe.config
+C:\Users\Bruno Manzoli\Desktop\Atividade 05 - Cine Palácio\Para o Instrutor\SistemaCinema\SistemaCinema\bin\Debug\SistemaCinema.exe
+C:\Users\Bruno Manzoli\Desktop\Atividade 05 - Cine Palácio\Para o Instrutor\SistemaCinema\SistemaCinema\bin\Debug\SistemaCinema.pdb
+C:\Users\Bruno Manzoli\Desktop\Atividade 05 - Cine Palácio\Para o Instrutor\SistemaCinema\SistemaCinema\obj\Debug\SistemaCinema.csprojAssemblyReference.cache
+C:\Users\Bruno Manzoli\Desktop\Atividade 05 - Cine Palácio\Para o Instrutor\SistemaCinema\SistemaCinema\obj\Debug\SistemaCinema.frmPrincipal.resources
+C:\Users\Bruno Manzoli\Desktop\Atividade 05 - Cine Palácio\Para o Instrutor\SistemaCinema\SistemaCinema\obj\Debug\SistemaCinema.Properties.Resources.resources
+C:\Users\Bruno Manzoli\Desktop\Atividade 05 - Cine Palácio\Para o Instrutor\SistemaCinema\SistemaCinema\obj\Debug\SistemaCinema.csproj.GenerateResource.cache
+C:\Users\Bruno Manzoli\Desktop\Atividade 05 - Cine Palácio\Para o Instrutor\SistemaCinema\SistemaCinema\obj\Debug\SistemaCinema.csproj.CoreCompileInputs.cache
+C:\Users\Bruno Manzoli\Desktop\Atividade 05 - Cine Palácio\Para o Instrutor\SistemaCinema\SistemaCinema\obj\Debug\SistemaCinema.exe
+C:\Users\Bruno Manzoli\Desktop\Atividade 05 - Cine Palácio\Para o Instrutor\SistemaCinema\SistemaCinema\obj\Debug\SistemaCinema.pdb
+C:\Users\Bruno Manzoli\Desktop\Atividade 05 - Cine Holliwood\Para o Aluno\SistemaCinema\SistemaCinema\bin\Debug\SistemaCinema.exe.config
+C:\Users\Bruno Manzoli\Desktop\Atividade 05 - Cine Holliwood\Para o Aluno\SistemaCinema\SistemaCinema\bin\Debug\SistemaCinema.exe
+C:\Users\Bruno Manzoli\Desktop\Atividade 05 - Cine Holliwood\Para o Aluno\SistemaCinema\SistemaCinema\bin\Debug\SistemaCinema.pdb
+C:\Users\Bruno Manzoli\Desktop\Atividade 05 - Cine Holliwood\Para o Aluno\SistemaCinema\SistemaCinema\obj\Debug\SistemaCinema.frmPrincipal.resources
+C:\Users\Bruno Manzoli\Desktop\Atividade 05 - Cine Holliwood\Para o Aluno\SistemaCinema\SistemaCinema\obj\Debug\SistemaCinema.Properties.Resources.resources
+C:\Users\Bruno Manzoli\Desktop\Atividade 05 - Cine Holliwood\Para o Aluno\SistemaCinema\SistemaCinema\obj\Debug\SistemaCinema.csproj.GenerateResource.cache
+C:\Users\Bruno Manzoli\Desktop\Atividade 05 - Cine Holliwood\Para o Aluno\SistemaCinema\SistemaCinema\obj\Debug\SistemaCinema.csproj.CoreCompileInputs.cache
+C:\Users\Bruno Manzoli\Desktop\Atividade 05 - Cine Holliwood\Para o Aluno\SistemaCinema\SistemaCinema\obj\Debug\SistemaCinema.exe
+C:\Users\Bruno Manzoli\Desktop\Atividade 05 - Cine Holliwood\Para o Aluno\SistemaCinema\SistemaCinema\obj\Debug\SistemaCinema.pdb
+D:\3 - Visual Studio\0 - Projetos VisualStudio\SistemaCinema\SistemaCinema\bin\Debug\SistemaCinema.exe.config
+D:\3 - Visual Studio\0 - Projetos VisualStudio\SistemaCinema\SistemaCinema\bin\Debug\SistemaCinema.exe
+D:\3 - Visual Studio\0 - Projetos VisualStudio\SistemaCinema\SistemaCinema\bin\Debug\SistemaCinema.pdb
+D:\3 - Visual Studio\0 - Projetos VisualStudio\SistemaCinema\SistemaCinema\obj\Debug\SistemaCinema.csprojAssemblyReference.cache
+D:\3 - Visual Studio\0 - Projetos VisualStudio\SistemaCinema\SistemaCinema\obj\Debug\SistemaCinema.frmPrincipal.resources
+D:\3 - Visual Studio\0 - Projetos VisualStudio\SistemaCinema\SistemaCinema\obj\Debug\SistemaCinema.Properties.Resources.resources
+D:\3 - Visual Studio\0 - Projetos VisualStudio\SistemaCinema\SistemaCinema\obj\Debug\SistemaCinema.csproj.GenerateResource.cache
+D:\3 - Visual Studio\0 - Projetos VisualStudio\SistemaCinema\SistemaCinema\obj\Debug\SistemaCinema.csproj.CoreCompileInputs.cache
+D:\3 - Visual Studio\0 - Projetos VisualStudio\SistemaCinema\SistemaCinema\obj\Debug\SistemaCinema.exe
+D:\3 - Visual Studio\0 - Projetos VisualStudio\SistemaCinema\SistemaCinema\obj\Debug\SistemaCinema.pdb
