@@ -1,0 +1,42 @@
+C:\Users\Bruno Manzoli\Desktop\SystemPizzaria\SystemPizzaria\bin\Debug\SystemPizzaria.exe.config
+C:\Users\Bruno Manzoli\Desktop\Recuperação\SystemPizzaria\SystemPizzaria\bin\Debug\SystemPizzaria.exe.config
+C:\Users\Bruno Manzoli\Desktop\Recuperação\SystemPizzaria\SystemPizzaria\bin\Debug\SystemPizzaria.exe
+C:\Users\Bruno Manzoli\Desktop\Recuperação\SystemPizzaria\SystemPizzaria\bin\Debug\SystemPizzaria.pdb
+C:\Users\Bruno Manzoli\Desktop\Recuperação\SystemPizzaria\SystemPizzaria\obj\Debug\SystemPizzaria.csprojResolveAssemblyReference.cache
+C:\Users\Bruno Manzoli\Desktop\Recuperação\SystemPizzaria\SystemPizzaria\obj\Debug\SystemPizzaria.frmPrincipal.resources
+C:\Users\Bruno Manzoli\Desktop\Recuperação\SystemPizzaria\SystemPizzaria\obj\Debug\SystemPizzaria.Properties.Resources.resources
+C:\Users\Bruno Manzoli\Desktop\Recuperação\SystemPizzaria\SystemPizzaria\obj\Debug\SystemPizzaria.csproj.GenerateResource.Cache
+C:\Users\Bruno Manzoli\Desktop\Recuperação\SystemPizzaria\SystemPizzaria\obj\Debug\SystemPizzaria.exe
+C:\Users\Bruno Manzoli\Desktop\Recuperação\SystemPizzaria\SystemPizzaria\obj\Debug\SystemPizzaria.pdb
+D:\BackUp\SENAI\Material Didático\Técnico em Informática\Programação de Aplicativos\Provas\Prova Prática - Recuperação Final 01\SystemPizzaria\SystemPizzaria\bin\Debug\SystemPizzaria.exe.config
+D:\BackUp\SENAI\Material Didático\Técnico em Informática\Programação de Aplicativos\Provas\Prova Prática - Recuperação Final 01\SystemPizzaria\SystemPizzaria\obj\Debug\SystemPizzaria.exe
+D:\BackUp\SENAI\Material Didático\Técnico em Informática\Programação de Aplicativos\Provas\Prova Prática - Recuperação Final 01\SystemPizzaria\SystemPizzaria\obj\Debug\SystemPizzaria.pdb
+C:\Users\Bruno Manzoli\Desktop\Prova Prática 02 - Pizzaria Mama Mia\SystemPizzaria\SystemPizzaria\bin\Debug\SystemPizzaria.exe.config
+C:\Users\Bruno Manzoli\Desktop\Prova Prática 02 - Pizzaria Mama Mia\SystemPizzaria\SystemPizzaria\bin\Debug\SystemPizzaria.exe
+C:\Users\Bruno Manzoli\Desktop\Prova Prática 02 - Pizzaria Mama Mia\SystemPizzaria\SystemPizzaria\bin\Debug\SystemPizzaria.pdb
+C:\Users\Bruno Manzoli\Desktop\Prova Prática 02 - Pizzaria Mama Mia\SystemPizzaria\SystemPizzaria\obj\Debug\SystemPizzaria.csprojAssemblyReference.cache
+C:\Users\Bruno Manzoli\Desktop\Prova Prática 02 - Pizzaria Mama Mia\SystemPizzaria\SystemPizzaria\obj\Debug\SystemPizzaria.frmPrincipal.resources
+C:\Users\Bruno Manzoli\Desktop\Prova Prática 02 - Pizzaria Mama Mia\SystemPizzaria\SystemPizzaria\obj\Debug\SystemPizzaria.Properties.Resources.resources
+C:\Users\Bruno Manzoli\Desktop\Prova Prática 02 - Pizzaria Mama Mia\SystemPizzaria\SystemPizzaria\obj\Debug\SystemPizzaria.csproj.GenerateResource.cache
+C:\Users\Bruno Manzoli\Desktop\Prova Prática 02 - Pizzaria Mama Mia\SystemPizzaria\SystemPizzaria\obj\Debug\SystemPizzaria.csproj.CoreCompileInputs.cache
+C:\Users\Bruno Manzoli\Desktop\Prova Prática 02 - Pizzaria Mama Mia\SystemPizzaria\SystemPizzaria\obj\Debug\SystemPizzaria.exe
+C:\Users\Bruno Manzoli\Desktop\Prova Prática 02 - Pizzaria Mama Mia\SystemPizzaria\SystemPizzaria\obj\Debug\SystemPizzaria.pdb
+C:\Users\Bruno Manzoli\Desktop\Prova Prática 02 - Pizzaria Mama Mia\Para o Aluno\SystemPizzaria\SystemPizzaria\obj\Debug\SystemPizzaria.csprojAssemblyReference.cache
+C:\Users\Bruno Manzoli\Desktop\Prova Prática 02 - Pizzaria Mama Mia\Para o Aluno\SystemPizzaria\SystemPizzaria\obj\Debug\SystemPizzaria.frmPrincipal.resources
+C:\Users\Bruno Manzoli\Desktop\Prova Prática 02 - Pizzaria Mama Mia\Para o Aluno\SystemPizzaria\SystemPizzaria\obj\Debug\SystemPizzaria.csproj.GenerateResource.cache
+C:\Users\Bruno Manzoli\Desktop\Prova Prática 02 - Pizzaria Mama Mia\Para o Aluno\SystemPizzaria\SystemPizzaria\bin\Debug\SystemPizzaria.exe.config
+C:\Users\Bruno Manzoli\Desktop\Prova Prática 02 - Pizzaria Mama Mia\Para o Aluno\SystemPizzaria\SystemPizzaria\bin\Debug\SystemPizzaria.exe
+C:\Users\Bruno Manzoli\Desktop\Prova Prática 02 - Pizzaria Mama Mia\Para o Aluno\SystemPizzaria\SystemPizzaria\bin\Debug\SystemPizzaria.pdb
+C:\Users\Bruno Manzoli\Desktop\Prova Prática 02 - Pizzaria Mama Mia\Para o Aluno\SystemPizzaria\SystemPizzaria\obj\Debug\SystemPizzaria.Properties.Resources.resources
+C:\Users\Bruno Manzoli\Desktop\Prova Prática 02 - Pizzaria Mama Mia\Para o Aluno\SystemPizzaria\SystemPizzaria\obj\Debug\SystemPizzaria.csproj.CoreCompileInputs.cache
+C:\Users\Bruno Manzoli\Desktop\Prova Prática 02 - Pizzaria Mama Mia\Para o Aluno\SystemPizzaria\SystemPizzaria\obj\Debug\SystemPizzaria.exe
+C:\Users\Bruno Manzoli\Desktop\Prova Prática 02 - Pizzaria Mama Mia\Para o Aluno\SystemPizzaria\SystemPizzaria\obj\Debug\SystemPizzaria.pdb
+C:\Users\usuario\Desktop\Prova CTDS-04 - André Guzzo\18-11-2020\SystemPizzaria\SystemPizzaria\bin\Debug\SystemPizzaria.exe.config
+C:\Users\usuario\Desktop\Prova CTDS-04 - André Guzzo\18-11-2020\SystemPizzaria\SystemPizzaria\bin\Debug\SystemPizzaria.exe
+C:\Users\usuario\Desktop\Prova CTDS-04 - André Guzzo\18-11-2020\SystemPizzaria\SystemPizzaria\bin\Debug\SystemPizzaria.pdb
+C:\Users\usuario\Desktop\Prova CTDS-04 - André Guzzo\18-11-2020\SystemPizzaria\SystemPizzaria\obj\Debug\SystemPizzaria.frmPrincipal.resources
+C:\Users\usuario\Desktop\Prova CTDS-04 - André Guzzo\18-11-2020\SystemPizzaria\SystemPizzaria\obj\Debug\SystemPizzaria.Properties.Resources.resources
+C:\Users\usuario\Desktop\Prova CTDS-04 - André Guzzo\18-11-2020\SystemPizzaria\SystemPizzaria\obj\Debug\SystemPizzaria.csproj.GenerateResource.cache
+C:\Users\usuario\Desktop\Prova CTDS-04 - André Guzzo\18-11-2020\SystemPizzaria\SystemPizzaria\obj\Debug\SystemPizzaria.exe
+C:\Users\usuario\Desktop\Prova CTDS-04 - André Guzzo\18-11-2020\SystemPizzaria\SystemPizzaria\obj\Debug\SystemPizzaria.pdb
+C:\Users\usuario\Desktop\Prova CTDS-04 - André Guzzo\18-11-2020\SystemPizzaria\SystemPizzaria\obj\Debug\SystemPizzaria.csprojAssemblyReference.cache
