@@ -83,7 +83,7 @@
             this.cbCogumelo = new System.Windows.Forms.CheckBox();
             this.txtQueijoExtra = new System.Windows.Forms.TextBox();
             this.cbQueijoExtra = new System.Windows.Forms.CheckBox();
-            this.groupBox1 = new System.Windows.Forms.GroupBox();
+            this.gBoxTamanho = new System.Windows.Forms.GroupBox();
             this.txtGrande = new System.Windows.Forms.TextBox();
             this.txtMedia = new System.Windows.Forms.TextBox();
             this.txtPequena = new System.Windows.Forms.TextBox();
@@ -101,7 +101,7 @@
             this.panel2.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.groupBox2.SuspendLayout();
-            this.groupBox1.SuspendLayout();
+            this.gBoxTamanho.SuspendLayout();
             this.SuspendLayout();
             // 
             // panel4
@@ -117,7 +117,7 @@
             this.panel4.Controls.Add(this.label10);
             this.panel4.Controls.Add(this.pictureBox1);
             this.panel4.Controls.Add(this.groupBox2);
-            this.panel4.Controls.Add(this.groupBox1);
+            this.panel4.Controls.Add(this.gBoxTamanho);
             this.panel4.Controls.Add(this.btGerarPedido);
             this.panel4.Controls.Add(this.label9);
             this.panel4.Controls.Add(this.btMontarPizza);
@@ -156,7 +156,7 @@
             this.cbEntregar.Location = new System.Drawing.Point(19, 21);
             this.cbEntregar.Name = "cbEntregar";
             this.cbEntregar.Size = new System.Drawing.Size(66, 17);
-            this.cbEntregar.TabIndex = 22;
+            this.cbEntregar.TabIndex = 0;
             this.cbEntregar.Text = "Entregar";
             this.cbEntregar.UseVisualStyleBackColor = true;
             this.cbEntregar.CheckedChanged += new System.EventHandler(this.cbEntregar_CheckedChanged);
@@ -176,7 +176,7 @@
             this.cbBorda.Location = new System.Drawing.Point(19, 47);
             this.cbBorda.Name = "cbBorda";
             this.cbBorda.Size = new System.Drawing.Size(54, 17);
-            this.cbBorda.TabIndex = 23;
+            this.cbBorda.TabIndex = 1;
             this.cbBorda.Text = "Borda";
             this.cbBorda.UseVisualStyleBackColor = true;
             this.cbBorda.CheckedChanged += new System.EventHandler(this.cbBorda_CheckedChanged);
@@ -202,7 +202,7 @@
             this.btCancelarPedido.Location = new System.Drawing.Point(723, 579);
             this.btCancelarPedido.Name = "btCancelarPedido";
             this.btCancelarPedido.Size = new System.Drawing.Size(98, 28);
-            this.btCancelarPedido.TabIndex = 18;
+            this.btCancelarPedido.TabIndex = 1;
             this.btCancelarPedido.Text = "Cancelar Pedido";
             this.btCancelarPedido.UseVisualStyleBackColor = true;
             this.btCancelarPedido.Click += new System.EventHandler(this.btCancelarPedido_Click);
@@ -316,7 +316,7 @@
             this.checkBoxDesconto.Location = new System.Drawing.Point(147, 216);
             this.checkBoxDesconto.Name = "checkBoxDesconto";
             this.checkBoxDesconto.Size = new System.Drawing.Size(164, 17);
-            this.checkBoxDesconto.TabIndex = 7;
+            this.checkBoxDesconto.TabIndex = 8;
             this.checkBoxDesconto.Text = "Conceder desconto no preço";
             this.checkBoxDesconto.UseVisualStyleBackColor = true;
             // 
@@ -325,7 +325,7 @@
             this.txtEncargo.Location = new System.Drawing.Point(85, 213);
             this.txtEncargo.Name = "txtEncargo";
             this.txtEncargo.Size = new System.Drawing.Size(43, 20);
-            this.txtEncargo.TabIndex = 6;
+            this.txtEncargo.TabIndex = 7;
             this.txtEncargo.Text = "5,00";
             // 
             // label8
@@ -356,7 +356,7 @@
             this.btCancelar.Location = new System.Drawing.Point(157, 240);
             this.btCancelar.Name = "btCancelar";
             this.btCancelar.Size = new System.Drawing.Size(150, 24);
-            this.btCancelar.TabIndex = 17;
+            this.btCancelar.TabIndex = 10;
             this.btCancelar.Text = "Cancelar Cadastro";
             this.btCancelar.UseVisualStyleBackColor = true;
             this.btCancelar.Click += new System.EventHandler(this.btCancelar_Click);
@@ -375,7 +375,7 @@
             this.btSalvar.Location = new System.Drawing.Point(12, 240);
             this.btSalvar.Name = "btSalvar";
             this.btSalvar.Size = new System.Drawing.Size(145, 24);
-            this.btSalvar.TabIndex = 8;
+            this.btSalvar.TabIndex = 9;
             this.btSalvar.Text = "Salvar Cliente";
             this.btSalvar.UseVisualStyleBackColor = true;
             this.btSalvar.Click += new System.EventHandler(this.btSalvar_Click);
@@ -427,7 +427,7 @@
             this.btProcurarCliente.Location = new System.Drawing.Point(161, 6);
             this.btProcurarCliente.Name = "btProcurarCliente";
             this.btProcurarCliente.Size = new System.Drawing.Size(121, 23);
-            this.btProcurarCliente.TabIndex = 7;
+            this.btProcurarCliente.TabIndex = 1;
             this.btProcurarCliente.Text = "Procurar Cliente (F10)";
             this.btProcurarCliente.UseVisualStyleBackColor = true;
             this.btProcurarCliente.Click += new System.EventHandler(this.btProcurarCliente_Click);
@@ -514,7 +514,7 @@
             this.cbCamarao.Location = new System.Drawing.Point(14, 245);
             this.cbCamarao.Name = "cbCamarao";
             this.cbCamarao.Size = new System.Drawing.Size(68, 17);
-            this.cbCamarao.TabIndex = 43;
+            this.cbCamarao.TabIndex = 8;
             this.cbCamarao.Text = "Camarão";
             this.cbCamarao.UseVisualStyleBackColor = true;
             this.cbCamarao.CheckedChanged += new System.EventHandler(this.cbCamarao_CheckedChanged);
@@ -534,7 +534,7 @@
             this.cbPresunto.Location = new System.Drawing.Point(14, 217);
             this.cbPresunto.Name = "cbPresunto";
             this.cbPresunto.Size = new System.Drawing.Size(68, 17);
-            this.cbPresunto.TabIndex = 41;
+            this.cbPresunto.TabIndex = 7;
             this.cbPresunto.Text = "Presunto";
             this.cbPresunto.UseVisualStyleBackColor = true;
             this.cbPresunto.CheckedChanged += new System.EventHandler(this.cbPresunto_CheckedChanged);
@@ -554,7 +554,7 @@
             this.cbOvo.Location = new System.Drawing.Point(14, 189);
             this.cbOvo.Name = "cbOvo";
             this.cbOvo.Size = new System.Drawing.Size(46, 17);
-            this.cbOvo.TabIndex = 39;
+            this.cbOvo.TabIndex = 6;
             this.cbOvo.Text = "Ovo";
             this.cbOvo.UseVisualStyleBackColor = true;
             this.cbOvo.CheckedChanged += new System.EventHandler(this.cbOvo_CheckedChanged);
@@ -574,7 +574,7 @@
             this.cbCalabreza.Location = new System.Drawing.Point(14, 161);
             this.cbCalabreza.Name = "cbCalabreza";
             this.cbCalabreza.Size = new System.Drawing.Size(73, 17);
-            this.cbCalabreza.TabIndex = 37;
+            this.cbCalabreza.TabIndex = 5;
             this.cbCalabreza.Text = "Calabreza";
             this.cbCalabreza.UseVisualStyleBackColor = true;
             this.cbCalabreza.CheckedChanged += new System.EventHandler(this.cbCalabreza_CheckedChanged);
@@ -594,7 +594,7 @@
             this.cbTomate.Location = new System.Drawing.Point(14, 131);
             this.cbTomate.Name = "cbTomate";
             this.cbTomate.Size = new System.Drawing.Size(62, 17);
-            this.cbTomate.TabIndex = 33;
+            this.cbTomate.TabIndex = 4;
             this.cbTomate.Text = "Tomate";
             this.cbTomate.UseVisualStyleBackColor = true;
             this.cbTomate.CheckedChanged += new System.EventHandler(this.cbTomate_CheckedChanged);
@@ -614,7 +614,7 @@
             this.cbCebola.Location = new System.Drawing.Point(14, 103);
             this.cbCebola.Name = "cbCebola";
             this.cbCebola.Size = new System.Drawing.Size(59, 17);
-            this.cbCebola.TabIndex = 31;
+            this.cbCebola.TabIndex = 3;
             this.cbCebola.Text = "Cebola";
             this.cbCebola.UseVisualStyleBackColor = true;
             this.cbCebola.CheckedChanged += new System.EventHandler(this.cbCebola_CheckedChanged);
@@ -634,7 +634,7 @@
             this.cbAzeitona.Location = new System.Drawing.Point(14, 75);
             this.cbAzeitona.Name = "cbAzeitona";
             this.cbAzeitona.Size = new System.Drawing.Size(67, 17);
-            this.cbAzeitona.TabIndex = 29;
+            this.cbAzeitona.TabIndex = 2;
             this.cbAzeitona.Text = "Azeitona";
             this.cbAzeitona.UseVisualStyleBackColor = true;
             this.cbAzeitona.CheckedChanged += new System.EventHandler(this.cbAzeitona_CheckedChanged);
@@ -654,7 +654,7 @@
             this.cbCogumelo.Location = new System.Drawing.Point(14, 47);
             this.cbCogumelo.Name = "cbCogumelo";
             this.cbCogumelo.Size = new System.Drawing.Size(73, 17);
-            this.cbCogumelo.TabIndex = 27;
+            this.cbCogumelo.TabIndex = 1;
             this.cbCogumelo.Text = "Cogumelo";
             this.cbCogumelo.UseVisualStyleBackColor = true;
             this.cbCogumelo.CheckedChanged += new System.EventHandler(this.cbCogumelo_CheckedChanged);
@@ -674,25 +674,25 @@
             this.cbQueijoExtra.Location = new System.Drawing.Point(14, 19);
             this.cbQueijoExtra.Name = "cbQueijoExtra";
             this.cbQueijoExtra.Size = new System.Drawing.Size(83, 17);
-            this.cbQueijoExtra.TabIndex = 25;
+            this.cbQueijoExtra.TabIndex = 0;
             this.cbQueijoExtra.Text = "Queijo Extra";
             this.cbQueijoExtra.UseVisualStyleBackColor = true;
             this.cbQueijoExtra.CheckedChanged += new System.EventHandler(this.cbQueijoExtra_CheckedChanged);
             // 
-            // groupBox1
+            // gBoxTamanho
             // 
-            this.groupBox1.Controls.Add(this.txtGrande);
-            this.groupBox1.Controls.Add(this.txtMedia);
-            this.groupBox1.Controls.Add(this.txtPequena);
-            this.groupBox1.Controls.Add(this.rbGrande);
-            this.groupBox1.Controls.Add(this.rbMedia);
-            this.groupBox1.Controls.Add(this.rbPequena);
-            this.groupBox1.Location = new System.Drawing.Point(727, 80);
-            this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Size = new System.Drawing.Size(179, 100);
-            this.groupBox1.TabIndex = 2;
-            this.groupBox1.TabStop = false;
-            this.groupBox1.Text = "Tamanho";
+            this.gBoxTamanho.Controls.Add(this.txtGrande);
+            this.gBoxTamanho.Controls.Add(this.txtMedia);
+            this.gBoxTamanho.Controls.Add(this.txtPequena);
+            this.gBoxTamanho.Controls.Add(this.rbGrande);
+            this.gBoxTamanho.Controls.Add(this.rbMedia);
+            this.gBoxTamanho.Controls.Add(this.rbPequena);
+            this.gBoxTamanho.Location = new System.Drawing.Point(727, 80);
+            this.gBoxTamanho.Name = "gBoxTamanho";
+            this.gBoxTamanho.Size = new System.Drawing.Size(179, 100);
+            this.gBoxTamanho.TabIndex = 2;
+            this.gBoxTamanho.TabStop = false;
+            this.gBoxTamanho.Text = "Tamanho";
             // 
             // txtGrande
             // 
@@ -762,9 +762,10 @@
             this.btGerarPedido.Location = new System.Drawing.Point(821, 579);
             this.btGerarPedido.Name = "btGerarPedido";
             this.btGerarPedido.Size = new System.Drawing.Size(90, 28);
-            this.btGerarPedido.TabIndex = 13;
+            this.btGerarPedido.TabIndex = 2;
             this.btGerarPedido.Text = "Confirmar";
             this.btGerarPedido.UseVisualStyleBackColor = true;
+            this.btGerarPedido.Click += new System.EventHandler(this.btGerarPedido_Click);
             // 
             // label9
             // 
@@ -783,7 +784,7 @@
             this.btMontarPizza.Location = new System.Drawing.Point(661, 87);
             this.btMontarPizza.Name = "btMontarPizza";
             this.btMontarPizza.Size = new System.Drawing.Size(51, 524);
-            this.btMontarPizza.TabIndex = 14;
+            this.btMontarPizza.TabIndex = 0;
             this.btMontarPizza.UseVisualStyleBackColor = true;
             this.btMontarPizza.Click += new System.EventHandler(this.btMontarPizza_Click);
             // 
@@ -821,8 +822,8 @@
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.groupBox2.ResumeLayout(false);
             this.groupBox2.PerformLayout();
-            this.groupBox1.ResumeLayout(false);
-            this.groupBox1.PerformLayout();
+            this.gBoxTamanho.ResumeLayout(false);
+            this.gBoxTamanho.PerformLayout();
             this.ResumeLayout(false);
 
         }
@@ -881,7 +882,7 @@
         private System.Windows.Forms.CheckBox cbCogumelo;
         private System.Windows.Forms.TextBox txtQueijoExtra;
         private System.Windows.Forms.CheckBox cbQueijoExtra;
-        private System.Windows.Forms.GroupBox groupBox1;
+        private System.Windows.Forms.GroupBox gBoxTamanho;
         private System.Windows.Forms.TextBox txtGrande;
         private System.Windows.Forms.TextBox txtMedia;
         private System.Windows.Forms.TextBox txtPequena;

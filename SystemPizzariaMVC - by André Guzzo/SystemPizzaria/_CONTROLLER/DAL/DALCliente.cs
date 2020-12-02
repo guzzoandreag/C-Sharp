@@ -40,7 +40,7 @@ namespace SystemPizzaria._CONTROLLER.DAL
         public DataTable Pesquisar(string filtro)
         {
             DataTable tabela = new DataTable();
-            SqlDataAdapter da = new SqlDataAdapter("SELECT * FROM TBL_CLIENTES WHERE CLI_TELEFONE LIKE '%" + filtro + "%'", DadosDaConexao.StringDeConexao);
+            SqlDataAdapter da = new SqlDataAdapter("SELECT * FROM TBL_CLIENTES WHERE CLI_TELEFONE LIKE REPLACE(REPLACE(REPLACE(REPLACE('%" + filtro + "%','(','%'),')','%'),'-','%'),' ','%')", DadosDaConexao.StringDeConexao);
             da.Fill(tabela);
             return tabela;
         }

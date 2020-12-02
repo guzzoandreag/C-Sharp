@@ -40,3 +40,13 @@ C:\Users\usuario\Desktop\Prova CTDS-04 - André Guzzo\18-11-2020\SystemPizzaria\
 C:\Users\usuario\Desktop\Prova CTDS-04 - André Guzzo\18-11-2020\SystemPizzaria\SystemPizzaria\obj\Debug\SystemPizzaria.exe
 C:\Users\usuario\Desktop\Prova CTDS-04 - André Guzzo\18-11-2020\SystemPizzaria\SystemPizzaria\obj\Debug\SystemPizzaria.pdb
 C:\Users\usuario\Desktop\Prova CTDS-04 - André Guzzo\18-11-2020\SystemPizzaria\SystemPizzaria\obj\Debug\SystemPizzaria.csprojAssemblyReference.cache
+C:\Users\guzzo\Desktop\Senai - Temp\Prova CTDS-04 - André Guzzo\SystemPizzaria\SystemPizzaria\bin\Debug\SystemPizzaria.exe.config
+C:\Users\guzzo\Desktop\Senai - Temp\Prova CTDS-04 - André Guzzo\SystemPizzaria\SystemPizzaria\bin\Debug\SystemPizzaria.exe
+C:\Users\guzzo\Desktop\Senai - Temp\Prova CTDS-04 - André Guzzo\SystemPizzaria\SystemPizzaria\bin\Debug\SystemPizzaria.pdb
+C:\Users\guzzo\Desktop\Senai - Temp\Prova CTDS-04 - André Guzzo\SystemPizzaria\SystemPizzaria\obj\Debug\SystemPizzaria.csprojAssemblyReference.cache
+C:\Users\guzzo\Desktop\Senai - Temp\Prova CTDS-04 - André Guzzo\SystemPizzaria\SystemPizzaria\obj\Debug\SystemPizzaria.frmPrincipal.resources
+C:\Users\guzzo\Desktop\Senai - Temp\Prova CTDS-04 - André Guzzo\SystemPizzaria\SystemPizzaria\obj\Debug\SystemPizzaria.Properties.Resources.resources
+C:\Users\guzzo\Desktop\Senai - Temp\Prova CTDS-04 - André Guzzo\SystemPizzaria\SystemPizzaria\obj\Debug\SystemPizzaria.csproj.GenerateResource.cache
+C:\Users\guzzo\Desktop\Senai - Temp\Prova CTDS-04 - André Guzzo\SystemPizzaria\SystemPizzaria\obj\Debug\SystemPizzaria.csproj.CoreCompileInputs.cache
+C:\Users\guzzo\Desktop\Senai - Temp\Prova CTDS-04 - André Guzzo\SystemPizzaria\SystemPizzaria\obj\Debug\SystemPizzaria.exe
+C:\Users\guzzo\Desktop\Senai - Temp\Prova CTDS-04 - André Guzzo\SystemPizzaria\SystemPizzaria\obj\Debug\SystemPizzaria.pdb

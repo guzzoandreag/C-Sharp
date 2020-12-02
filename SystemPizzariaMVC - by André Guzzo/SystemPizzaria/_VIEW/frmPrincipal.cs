@@ -98,7 +98,7 @@ namespace SystemPizzaria
             if (e.KeyCode == Keys.F10)
             {
                 btProcurarCliente_Click(sender, e);
-            } 
+            }
         }
 
         private void dgvClientes_CellDoubleClick(object sender, DataGridViewCellEventArgs e)
@@ -313,6 +313,177 @@ namespace SystemPizzaria
             cbBorda.Checked = false;
             frmPrincipal_Load(sender, e);
             btCancelar_Click(sender, e);
+        }
+
+        private void btGerarPedido_Click(object sender, EventArgs e)
+        {
+            string pedido = "Data : " + dtpDataPedido.Text + "\t\t\t\t" + "Horario : " + txtHora.Text + "\r\n" +
+                            "Cliente : " + txtNome.Text + "\t\t" + "Contato : " + mtxtFone.Text + "\r\n" +
+                            "Tamanho : ";
+            if (!rbPequena.Checked && !rbMedia.Checked && !rbGrande.Checked)
+            {
+                pedido = pedido + "\r\n";
+            }
+            if (rbPequena.Checked)
+            {
+                pedido = pedido + "Pequena" + "\r\n";
+            }
+            else
+            {
+                if (rbMedia.Checked)
+                {
+                    pedido = pedido + "Média" + "\r\n";
+                }
+                else
+                {
+                    if (rbGrande.Checked)
+                    {
+                        pedido = pedido + "Grande" + "\r\n";
+                    }
+                }
+            }
+            pedido = pedido + "Ingredientes : ";
+            if  (!cbQueijoExtra.Checked && !cbCogumelo.Checked && !cbAzeitona.Checked && !cbCebola.Checked &&
+                    !cbTomate.Checked && !cbCalabreza.Checked && !cbOvo.Checked &&
+                    !cbPresunto.Checked && !cbCamarao.Checked)
+            {
+                pedido = pedido + "\r\n";
+            }
+                if (cbQueijoExtra.Checked)
+            {
+                pedido = pedido + "Queijo Extra";
+                if (cbCogumelo.Checked || cbAzeitona.Checked || cbCebola.Checked || 
+                    cbTomate.Checked || cbCalabreza.Checked || cbOvo.Checked || 
+                    cbPresunto.Checked || cbCamarao.Checked)
+                {
+                    pedido = pedido + ", ";
+                }
+                else
+                {
+                    pedido = pedido + "\r\n";
+                }
+            }
+            if (cbCogumelo.Checked)
+            {
+                pedido = pedido + "Cogumelo";
+                if (cbAzeitona.Checked || cbCebola.Checked || cbTomate.Checked ||
+                    cbCalabreza.Checked || cbOvo.Checked || cbPresunto.Checked ||
+                    cbCamarao.Checked)
+                {
+                    pedido = pedido + ", ";
+                }
+                else
+                {
+                    pedido = pedido + "\r\n";
+                }
+            }
+            if (cbAzeitona.Checked)
+            {
+                pedido = pedido + "Azeitona";
+                if (cbCebola.Checked || cbTomate.Checked || cbCalabreza.Checked ||
+                    cbOvo.Checked || cbPresunto.Checked || cbCamarao.Checked)
+                {
+                    pedido = pedido + ", ";
+                }
+                else
+                {
+                    pedido = pedido + "\r\n";
+                }
+            }
+            if (cbCebola.Checked)
+            {
+                pedido = pedido + "Cebola";
+                if (cbTomate.Checked || cbCalabreza.Checked || cbOvo.Checked ||
+                    cbPresunto.Checked || cbCamarao.Checked)
+                {
+                    pedido = pedido + ", ";
+                }
+                else
+                {
+                    pedido = pedido + "\r\n";
+                }
+            }
+            if (cbTomate.Checked)
+            {
+                pedido = pedido + "Tomate";
+                if (cbCalabreza.Checked || cbOvo.Checked || cbPresunto.Checked ||
+                    cbCamarao.Checked)
+                {
+                    pedido = pedido + ", ";
+                }
+                else
+                {
+                    pedido = pedido + "\r\n";
+                }
+            }
+            if (cbCalabreza.Checked)
+            {
+                pedido = pedido + "Calabreza";
+                if (cbOvo.Checked || cbPresunto.Checked ||
+                    cbCamarao.Checked)
+                {
+                    pedido = pedido + ", ";
+                }
+                else
+                {
+                    pedido = pedido + "\r\n";
+                }
+            }
+            if (cbOvo.Checked)
+            {
+                pedido = pedido + "Ovo";
+                if (cbPresunto.Checked || cbCamarao.Checked)
+                {
+                    pedido = pedido + ", ";
+                }
+                else
+                {
+                    pedido = pedido + "\r\n";
+                }
+            }
+            if (cbPresunto.Checked)
+            {
+                pedido = pedido + "Presunto";
+                if (cbCamarao.Checked)
+                {
+                    pedido = pedido + ", ";
+                }
+                else
+                {
+                    pedido = pedido + "\r\n";
+                }
+            }
+            if (cbCamarao.Checked)
+            {
+                pedido = pedido + "Camarão" + "\r\n";
+
+            }
+            if (cbEntregar.Checked)
+            {
+                pedido = pedido + "Entrega : Sim" + "\r\n";
+            }
+            else
+            {
+                pedido = pedido + "Entrega : Não" + "\r\n";
+            }
+            if (cbBorda.Checked)
+            {
+                pedido = pedido + "Borda : Sim" + "\r\n";
+            }
+            else
+            {
+                pedido = pedido + "Borda : Não" + "\r\n";
+            }
+            if (checkBoxDesconto.Checked)
+            {
+                txtValorTotal.Text = Convert.ToString(CalcularValorTotal());
+                txtValorTotal.Text = Convert.ToString(Convert.ToDouble(txtValorTotal.Text) - ((Convert.ToDouble(txtValorTotal.Text) * (Convert.ToDouble(txtEncargo.Text)/100))));
+            }
+            else
+            {
+                txtValorTotal.Text = Convert.ToString(CalcularValorTotal());
+            }
+            txtDescricao.Text = pedido;
         }
     }
 }
